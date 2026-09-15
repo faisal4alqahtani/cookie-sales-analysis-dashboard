@@ -14,7 +14,7 @@ An interactive sales analysis dashboard built with Power BI to analyze cookie sa
 
 
 
-\![Cookie Sales Analysis Dashboard](dashboard.png)
+![Cookie Sales Analysis Dashboard](dashboard.png)
 
 \## Key Performance Indicators
 
